@@ -3,7 +3,7 @@
 <h1>NotInject: Evaluating and Mitigating Over-defense in Prompt Guard Models for Robustness against Prompt Injection Attacks</h1>
 
 <p align="center" style="overflow:hidden;">
- <img src="assets/3D.png" width="80%" style="margin: -5% -10% -0% -10%;">
+ <img src="assets/3D.png" width="60%" style="margin: -2% -10% -0% -10%;">
 </p>
 
 </div>
