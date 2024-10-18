@@ -35,7 +35,7 @@ python multi_task_train.py
 
 ## 📋 Evaluation
 
-You can evalaute  trained InjecGuard by excuting the command:
+You can evalaute trained InjecGuard on both 4 datasets (NotInject, Pint-benchmark, Wildguard-Injection, BIPIA) by excuting the command:
 ```
 python eval.py
 ```
