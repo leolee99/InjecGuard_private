@@ -1,9 +1,9 @@
 <div align=center>
 
-<h1>NotInject: Evaluating and Mitigating Over-defense in Prompt Guard Models for Robustness against Prompt Injection Attacks</h1>
+<h1>InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models</h1>
 
 <p align="center" style="overflow:hidden;">
- <img src="assets/3D.png" width="60%" style="margin: -2% -10% -0% -10%;">
+ <img src="assets/figure_performance.png" width="60%" style="margin: -2% -10% -0% -10%;">
 </p>
 
 </div>
