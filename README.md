@@ -3,7 +3,7 @@
 <h1>InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models</h1>
 
 <p align="center" style="overflow:hidden;">
- <img src="assets/figure_performance.png" width="90%" style="margin: -0% -10% -0% -10%;">
+ <img src="assets/figure_performance.png" width="70%" style="margin: -0% -10% -0% -10%;">
 </p>
 
 </div>
